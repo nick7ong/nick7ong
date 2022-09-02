@@ -1,4 +1,5 @@
-!currently not committing as much bc im working on Plastic SCM repos :( 
+currently not committing as much bc im working on Plastic SCM repos :(
+still coding everyday tho!!
 - 👋 Hi, I’m @nick7ong
 - 👀 I’m interested in audio software/engineering
 - 🌱 I’m currently studying music engineering technology at umiami
