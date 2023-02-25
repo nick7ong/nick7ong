@@ -9,9 +9,6 @@
 🌐 My LinkedIn -> www.linkedin.com/in/nicholas-nj-tong/
 📫 How to reach me -> n.tong@miami.edu
 
-currently not committing as much bc im working on Plastic SCM repos :(
-still coding everyday tho!!
-
 <!---
 nick7ong/nick7ong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
