@@ -5,7 +5,7 @@
 🎧 Passionate in anything audio software & hardware
 🎸 I also record and produce my own music too
 
-🌐 My websie -> bit.ly/nicktong
+🌐 My portfolio -> bit.ly/nicktong
 🌐 My LinkedIn -> www.linkedin.com/in/nicholas-nj-tong/
 📫 How to reach me -> n.tong@miami.edu
 
