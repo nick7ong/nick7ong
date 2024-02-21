@@ -1,6 +1,5 @@
 📝 I’m currently an Undergraduate student at the University of Miami on a 5-year BS/MS track in Music Engineering Technology with a minor in Computer Engineering. Focusing to pursue a career in Audio Software Development.
 
-👾 I develop XR games and applications for UMIT Innovate Team
 🎙️ Live sound and recording engineer at Frost School of Music Recording Services
 🎧 Passionate in anything audio software & hardware
 🎸 I also record and produce my own music too
