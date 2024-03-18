@@ -1,8 +1,6 @@
-📝 I’m currently an Undergraduate student at the University of Miami on a 5-year BS/MS track in Music Engineering Technology with a minor in Computer Engineering. Focusing to pursue a career in Audio Software Development.
+📝 I’m currently an Undergraduate student at the University of Miami on a 5-year BS/MS track in Music Engineering Technology with a minor in Computer Engineering. Focusing to pursue a career in Audio Software Engineering.
 
-🎙️ Live sound and recording engineer at Frost School of Music Recording Services
-🎧 Passionate in anything audio software & hardware
-🎸 I also record and produce my own music too
+🎧 Passionate in anything audio software & hardware with interestes in spatial audio and AI/ML.
 
 🌐 My portfolio -> bit.ly/nicktong
 🌐 My LinkedIn -> www.linkedin.com/in/nicholas-nj-tong/
