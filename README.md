@@ -1,4 +1,4 @@
-📝 I’m currently an Undergraduate student at the University of Miami on a 5-year BS/MS track in Music Engineering Technology with a minor in Computer Engineering. Focusing to pursue a career in Audio Software Engineering.
+📝 I’m currently a student at the University of Miami on a 5-year BS/MS track in Music Engineering Technology with a minor in Computer Engineering. Focusing to pursue a career in Audio Software Engineering.
 
 🎧 Passionate in anything audio software & hardware with interestes in spatial audio and AI/ML.
 
